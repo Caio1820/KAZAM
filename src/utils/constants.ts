@@ -1,15 +1,15 @@
 export const KAZAM_INFO = {
-  name: 'KAZAM Materiais de Construção',
+  name: 'KAZAM Casa & Construção',
   shortName: 'KAZAM',
   tagline: 'Da Fundação ao Acabamento com a Melhor Condição',
-  logoUrl: 'https://i.postimg.cc/DfxyKn0S/IMG-9686.jpg',
+  logoUrl: '/assets/aistudio/IMG-9686-removebg-preview_8ea0dce0.png',
   whatsappPhone: '(96) 99112-1818',
   whatsappRaw: '5596991121818',
   whatsappLink: 'https://wa.me/5596991121818',
   instagramHandle: '@kazamconstrucao',
   instagramLink: 'https://www.instagram.com/kazamconstrucao',
   mapsLink: 'https://maps.app.goo.gl/MVCh69cAEbKAHxtp6',
-  address: 'Rod. Duca Serra - Macapá, AP - Atendimento Amapá e Região',
+  address: 'Rua Guanabara, 427 - Pacoval, Macapá - AP',
   cnpj: '38.412.980/0001-92',
   workingHours: 'Segunda a Sexta: 07:30 às 18:00 | Sábado: 07:30 às 13:00'
 };

@@ -147,7 +147,7 @@ export const Footer: React.FC<FooterProps> = ({
           <div className="lg:col-span-4 space-y-4">
             <KazamLogo size="md" />
             <p className="text-xs text-slate-600 leading-relaxed">
-              A KAZAM Materiais de Construção é a sua parceira completa da fundação ao acabamento. Oferecemos o que há de mais moderno em porcelanatos, iluminação LED, tintas e hidráulica com atendimento consultivo e entrega rápida no Amapá.
+              A KAZAM Casa & Construção é a sua parceira completa da fundação ao acabamento. Oferecemos o que há de mais moderno em porcelanatos, iluminação LED, tintas e hidráulica com atendimento consultivo e entrega rápida no Amapá.
             </p>
 
             <div className="space-y-2 text-xs text-slate-700">
@@ -296,7 +296,7 @@ export const Footer: React.FC<FooterProps> = ({
         {/* 4. Bottom Copyright & Security */}
         <div className="mt-12 pt-6 border-t border-slate-200 flex flex-col sm:flex-row items-center justify-between text-[11px] text-slate-500 gap-4">
           <div>
-            &copy; {new Date().getFullYear()} KAZAM Materiais de Construção LTDA · CNPJ: {KAZAM_INFO.cnpj} · Macapá - AP. Todos os direitos reservados.
+            &copy; {new Date().getFullYear()} KAZAM Casa & Construção LTDA · CNPJ: {KAZAM_INFO.cnpj} · Rua Guanabara, 427, Pacoval · Macapá - AP.
           </div>
           <div className="flex items-center gap-4 text-slate-600">
             <span className="flex items-center gap-1">

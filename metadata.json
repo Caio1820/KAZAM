@@ -1,6 +1,6 @@
 {
-  "name": "KAZAM - Materiais de Construção",
-  "description": "E-commerce oficial da KAZAM Materiais de Construção: Pisos, Porcelanatos, Tintas, Iluminação, Hidráulica e Elétrica.",
+  "name": "KAZAM - Casa & Construção",
+  "description": "E-commerce oficial da KAZAM Casa & Construção: Pisos, Porcelanatos, Tintas, Iluminação, Hidráulica e Elétrica.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

@@ -70,7 +70,7 @@ export const MainHeader: React.FC<MainHeaderProps> = ({
           {/* 1. Brand Logo */}
           <button
             onClick={onNavigateHome}
-            className="flex items-center text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 rounded-xl p-1 transition-opacity hover:opacity-95"
+            className="flex items-center text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 rounded-xl p-0.5 transition-opacity hover:opacity-95 shrink-0"
             aria-label="Ir para a página inicial da Kazam"
           >
             <KazamLogo size="md" />
